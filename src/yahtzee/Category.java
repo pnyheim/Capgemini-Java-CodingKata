@@ -4,5 +4,6 @@ public enum Category {
 	Chance,
 	Yahtzee,
 	Pair,
-	TwoPairs
+	TwoPairs,
+	House
 }
